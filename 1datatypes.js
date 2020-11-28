@@ -125,13 +125,48 @@ number+number = number
 
 
 10+"20"+30-1
+"102030"-1
 102029
 "10"+20+30-1
+"102030"-1
 102029
 10+20+"30"-1
+"3030"-1
 3029
 
-Monday    9:00pm
-Wednesday 9:00pm
-Friday    9:00pm
-Saturday  7:00pm
+
+var a = 10
+undefined
+var b = "10"
+undefined
+a+b
+"1010"
+a-b
+0
+a*b
+100
+a/b
+1
+
+var a = 10
+undefined
+var b = "10a"
+undefined
+a-b
+NaN
+b-a
+NaN
+var c = "3455"
+undefined
+c-a
+3445
+c+a 
+"345510"
+c*a
+34550
+c/a
+345.5
+
+if there pure number both side even in quotes 
+it will do all opt 
+except + is still concat
