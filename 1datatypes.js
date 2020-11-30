@@ -170,3 +170,8 @@ c/a
 if there pure number both side even in quotes 
 it will do all opt 
 except + is still concat
+
+"10"-1+"10"-1
+9+"10"-1
+"910"-1
+909
