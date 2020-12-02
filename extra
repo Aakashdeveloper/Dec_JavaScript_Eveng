@@ -10,13 +10,14 @@ Ecma 7
 > DataTypes
 > variable
 > Operations
-////////////////////////
 > String
-> Math
 > String literals
+////////////////////////
+> Math
 > localstorage
 > sessionStorage
 > cookies
+
 > github
 > condition
 > if else
