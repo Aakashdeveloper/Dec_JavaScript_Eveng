@@ -12,14 +12,13 @@ Ecma 7
 > Operations
 > String
 > String literals
-////////////////////////
 > Math
 > localstorage
 > sessionStorage
 > cookies
-
-> github
 > condition
+////////////////////////
+> github
 > if else
 > ternery Operations
 > switch
@@ -71,3 +70,13 @@ Monday    9:00pm
 Wednesday 9:00pm
 Friday    9:00pm
 Saturday  7:00pm
+
+https://github.com/Aakashdeveloper/Aakashdeveloper
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aakashdeveloper/testdec.git
+git push -u origin main
