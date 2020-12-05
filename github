@@ -25,3 +25,26 @@ Here are some ideas to get you started:
 -->
 
 
+
+>>>>>>>>>>
+First Time for New folder and repository
+<<<<<<<<<<<
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testdec.git
+git push -u origin master
+
+>>>>>>>>>>
+Next all Time form same folder
+<<<<<<<<<<<
+git add .
+git commit -m "first commit"
+git push
+
+git pull 
+
+git clone https://github.com/Aakashdeveloper/testdec
+
+//how to make branch////
+git checkout -b branchname
