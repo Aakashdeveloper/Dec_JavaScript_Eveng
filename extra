@@ -18,20 +18,21 @@ Ecma 7
 > cookies
 > condition
 > github
-////////////////////////
 > if else
 > ternery Operations
 > switch
 > Date
+////////////////////////
 > array
-> regex
-> loops
-> Functions
 
-> Es6
-    > maps,filter
+> regex
 > let, const
 > Clousers
+
+> loops
+> Functions
+> Es6
+    > maps,filter
 > Hoisting
 > object 
 > JSON
