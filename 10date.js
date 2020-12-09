@@ -14,3 +14,6 @@ a.getMonth()
 
 >> day start like 1 is monday and 0 is sunday and 2 is tuesday
 >> Month like 0 as Jan and 11 as dec 
+
+var date = new Date()
+var month = date.toLocaleString('default',{month:'long'})
