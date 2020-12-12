@@ -150,3 +150,15 @@ city.includes('Mumabi')
 false
 city.includes('Mumbai')
 true
+
+
+var city = ["London", "Paris", "Dubai",["red","yellow","green"], "Hongkong", "Mumbai", "Venice"];
+undefined
+Array.isArray(city[0])
+false
+Array.isArray(city[1])
+false
+Array.isArray(city[2])
+false
+Array.isArray(city[3])
+true
