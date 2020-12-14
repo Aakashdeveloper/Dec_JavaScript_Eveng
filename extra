@@ -27,23 +27,23 @@ Ecma 7
 > let, const
 > loops
 > Functions
-////////////////////////
 > Es6
     > maps,filter
 > Hoisting
 > Clousers
-
+////////////////////////
 > object 
 > JSON
-> Es6
-    > Transpile
-    > import export
-> package.JSON
 > this 
-> npm
+
 > Prototypes
 Es6
     > classes
+    > Transpile
+    > import export
+> package.JSON
+> npm
+
 > DoM
 > Calc
 > Geolocation
