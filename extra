@@ -31,20 +31,20 @@ Ecma 7
     > maps,filter
 > Hoisting
 > Clousers
+> Transpile
+> import export
+> package.JSON
+> npm
 ////////////////////////
 > object 
 > JSON
 > this 
-
 > Prototypes
 Es6
     > classes
-    > Transpile
-    > import export
-> package.JSON
-> npm
 
 > DoM
+
 > Calc
 > Geolocation
 > Form validation
@@ -81,3 +81,26 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Aakashdeveloper/testdec.git
 git push -u origin main
+
+
+/////
+To Manage The package 
+/////
+
+Package.json 
+    > meta data
+    > script 
+    > packages 
+
+////////
+Step to generate package.json
+////////
+**NodeJs must be install
+> go inside the folder using cmd/terminal
+> npm init -y
+
+////////
+Step to install packages
+////////
+> go inside the folder using cmd/terminal
+npm i @babel/core @babel/register @babel/preset-env 
