@@ -6,7 +6,7 @@ var moviename1 = "Jab We Met";
 var movierating1 = 4;
 var movielang1 = "Hindi";
 
-
+//literal notation////
 var movies = {
     name:'Death Race',
     rating:4.5,
