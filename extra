@@ -41,17 +41,19 @@ Ecma 7
 > Prototypes
 Es6
     > classes
-////////////////////////
 > DoM
 > Calc
+> screen
 > Geolocation
 > Form validation
 > Event
-> Progress bar
+////////////////////////
+
 > currenyConvertor
 > promis
 > async await
-> screen
+
+> Progress bar
 > Dynamic DropDown
 
 > Weather application
